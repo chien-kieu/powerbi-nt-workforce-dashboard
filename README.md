@@ -7,7 +7,7 @@
 ## 📌 Project Overview
 An interactive 3-page Power BI dashboard analysing **Northern Territory workforce trends 
 and skilled migration impact** using Australian Bureau of Statistics (ABS) Labour Force 
-data from 1996 to 2022.
+data from 1996 to 2025.
 
 This project was built to provide data-driven insights relevant to NT Government 
 policy and workforce planning.
