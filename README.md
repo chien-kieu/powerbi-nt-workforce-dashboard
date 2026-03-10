@@ -78,7 +78,7 @@ Unemployment Rate =
 **Quoc Chien Kieu (Nolan)**  
 Data Analyst | Darwin, NT  
 [LinkedIn](https://linkedin.com/in/quoc-chien-kieu) · 
-[GitHub](https://github.com/[your-username])
+[GitHub](github.com/chien-kieu)
 ```
 
 ---
