@@ -80,5 +80,3 @@ Data Analyst | Darwin, NT
 [LinkedIn](https://linkedin.com/in/quoc-chien-kieu) · 
 [GitHub](github.com/chien-kieu)
 ```
-
----
